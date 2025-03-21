@@ -1,5 +1,5 @@
 ---
-title: Colloque du xx/xx/xxxx
+title: Colloque du xx/xx/2025
 ---
 
 # Titre1
